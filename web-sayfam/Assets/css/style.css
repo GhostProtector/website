@@ -1,0 +1,23 @@
+.body{
+    background-color: rgb(28, 28, 28);
+}
+.profil-foto{
+    width: 175px;
+    height: 175px;
+    border-radius: 999999999px;
+    border: 1px solid cyan;
+    margin: auto;
+}
+.profil-card{
+    background-color: #343434;
+    border: 1px solid cyan;
+    color: cyan;
+}
+.card{
+    border: 1px solid cyan;
+    background-color: #343434;
+    color: cyan;
+}
+.sosyal-medya-icon{
+    color: cyan;
+}

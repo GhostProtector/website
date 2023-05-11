@@ -1,0 +1,75 @@
+.navbar-yazi{
+    padding: 10px;
+    word-spacing: 10px;
+    background-color: rgb(63, 63, 63);
+}
+.kurucular{
+    margin: 0 auto;
+}
+.kurucular-logo{
+    height: 100px;
+    width: 100px;
+    border-radius: 1000px;
+    transition: 0.5s;
+}
+.kurucular-logo:hover{
+    opacity: 0.5;
+    transition: 0.5s;
+}
+.nav-logo{
+    height: 70px;
+    width: 70px;
+}
+.container-kurucular{
+    margin: 10px 1%;
+}
+.sayfalinkleri{
+    line-height: 100px;
+    color: #edd982;
+}
+.sayfalinkleri a{
+    color: #edd982;
+    transition: 0.3s;
+}
+.sayfalinkleri a:hover{
+    color: black;
+    transition: 0.5s;
+}
+.kurucular a{
+    color: #edd982;
+    transition: 0.3s;
+    text-decoration: none;
+}
+.kurucular a:hover{
+    color: black;
+    transition: 0.5s;
+}
+.ekipler a{
+    color: #edd982;
+    transition: 0.3s;
+    text-decoration: none;
+}
+.ekipler a:hover{
+    color: black;
+    transition: 0.5s;
+}
+.body{
+    overflow-x: hidden;
+}
+.logo{
+    float: left;
+    margin-left: 50px;
+}
+.hakkimizda-div{
+    border: 1px solid red;
+}
+.hakkimizda-logo{
+    height: 100px;
+    width: 100px;
+    float: left;
+}
+.baslik{
+    color: #edd982;
+    transition: 0.3s;
+    text-decoration: none;
+}
